@@ -1,9 +1,4 @@
-@import url("https://raw.githubusercontent.com/gl1tch-css/Font/blob/main/Anton.otf");
 
-@font-face {
-    font-family: Anton;
-    scr: url("https://raw.githubusercontent.com/gl1tch-css/Font/blob/main/Anton.otf") format("opentype");
-}
 
 
 .navbar, .navbar>.container, .navbar>.container-fluid, .navbar-nav.ml-auto {
